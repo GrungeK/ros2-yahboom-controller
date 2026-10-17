@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Large models (uncomment if needed)
+# *.onnx
+# *.pt
+
+# Generated media
+media/photos/*.jpg
+media/videos/*.avi
