@@ -46,7 +46,7 @@ source install/setup.bash
 
 *(Дополнительно)* Галерея медиафайлов:
 ```bash
-python3 scripts/media_server.py
+ python3 ~/my_robot_project/scripts/media_server.py
 ```
 
 ## 🎮 Карта управления (8BitDo BT)
